@@ -1,0 +1,22 @@
+# Original working notebooks (not part of the public release)
+MR_Knee-v8.ipynb
+MR_Knee-v9.ipynb
+MR_Knee-externalTEST.ipynb
+MRI_parameters.ipynb
+model-v8.pth
+Aihara_et_al-2026-Skeletal_Radiology.pdf
+
+# Runtime outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Claude Code internal files
+.claude/
